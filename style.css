@@ -1,0 +1,174 @@
+.carre{
+    background-color: beige;
+    width:350px;
+    height:350px;
+    border-radius: 10%;    
+}
+#carre1{
+    position: absolute;
+    top: 50px;
+}
+
+#carre2{
+    position: absolute;
+    top: 50px;
+    left: 500px; 
+}
+
+#carre3{
+    position: relative;
+    top: 50px;
+    left: 1000px; 
+}
+
+#carre4{
+    margin-top: 180px;
+    position: absolute;
+}
+
+#carre5{
+    margin-top: 180px;
+    position: absolute;
+    left: 500px; 
+}
+
+#carre6{
+    margin-top: 180px;
+    position: absolute;
+    
+    left: 1000px; 
+}
+
+.rond{
+    background-color: red;
+    border-radius:50%;
+    width:100px;
+    height:100px;
+  }
+
+  #rond1{
+    position: absolute;
+    top: 120px;
+    left: 120px;
+  }
+
+  #rond2_1{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+  }
+
+  #rond2_2{
+    position: absolute;
+    top: 210px;
+    left: 210px;
+  }
+
+  #rond3_1{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+
+  #rond3_2{
+    position: absolute;
+    top: 220px;
+    left: 220px;
+  }
+
+  #rond3_3{
+    position: absolute;
+    top: 120px;
+    left: 120px;
+  }
+
+  #rond4_1{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+  }
+
+  #rond4_2{
+    position: absolute;
+    top: 40px;
+    left: 210px;
+  }
+
+  #rond4_3{
+    position: absolute;
+    top: 210px;
+    left: 40px;
+  }
+
+  #rond4_4{
+    position: absolute;
+    top: 210px;
+    left: 210px;
+  }
+
+  #rond5_1{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+
+  #rond5_2{
+    position: absolute;
+    top: 30px;
+    left: 220px;
+  }
+
+  #rond5_3{
+    position: absolute;
+    top: 220px;
+    left: 30px;
+  }
+
+  #rond5_4{
+    position: absolute;
+    top: 220px;
+    left: 220px;
+  }
+
+  #rond5_5{
+    position: absolute;
+    top: 120px;
+    left: 120px;
+  }
+
+  #rond6_1{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+
+  #rond6_2{
+    position: absolute;
+    top: 20px;
+    left: 230px;
+  }
+
+  #rond6_3{
+    position: absolute;
+    top: 125px;
+    left: 20px;
+  }
+
+  #rond6_4{
+    position: absolute;
+    top: 125px;
+    left: 230px;
+  }
+
+
+  #rond6_5{
+    position: absolute;
+    top: 230px;
+    left: 20px;
+  }
+
+  #rond6_6{
+    position: absolute;
+    top: 230px;
+    left: 230px;
+  }
