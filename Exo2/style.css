@@ -1,0 +1,31 @@
+.container {
+    display: grid;
+    height: 500px;
+    grid-template-columns: 250px 250px 250px 250px;
+    grid-template-areas: 
+      "header header header header"
+      "menu1 main main menu2"
+      "footer footer footer footer";
+    text-align: center;
+    font-size: 50px;
+  }
+.header {
+    grid-area: header;
+    background-color: blue;
+  }
+  .menu1 {
+    grid-area: menu1;
+    background-color: green;
+  }
+  .main {
+    grid-area: main;
+    background-color: yellow;
+  }
+  .menu2 {
+    grid-area: menu2;
+    background-color: orange;
+  }
+  .footer {
+    grid-area: footer;
+    background-color: red;
+  }
